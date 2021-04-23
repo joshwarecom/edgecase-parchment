@@ -16,4 +16,4 @@ This is a simple Inform 7 project bundled with the following:
 
 # acknowledgements
 Most of the work contained herein was done by individuals much better at this than me, for detailed citation of sources, see:
-/Edgecase%20Parchment.materials/Templates/Edgecase%20Parchment/acknowledgements.txt
+/Edgecase Parchment.materials/Templates/Edgecase Parchment/acknowledgements.txt
