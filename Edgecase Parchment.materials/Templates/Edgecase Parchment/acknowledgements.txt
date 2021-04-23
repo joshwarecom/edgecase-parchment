@@ -1,0 +1,11 @@
+Original Parchment Repository here:
+https://github.com/curiousdannii/parchment
+
+Original base64 encoding script here:
+https://github.com/erkyrath/parchment/blob/master/tools/zcode2js.py
+
+My Modifications:
+- minor tweak of the Parchment template to include dialog.css and glkote.css
+- minor modification of main.js to log a transcript of the session to document.transcript
+- addition of button to play page to download the transcript.
+- edgecase-parchment.py - apply the sequence of steps necessary to compile, fix and publish the zfile with parchment.
