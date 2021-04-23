@@ -13,3 +13,7 @@ This is a simple Inform 7 project bundled with the following:
 # To Publish A Different Z File:
 - replace library.z5 with your desired Z file
 - update the source of the inform project to reference the name of your desired z-file, instead of "library.z5"
+
+# acknowledgements
+Most of the work contained herein was done by individuals much better at this than me, for detailed citation of sources, see:
+/Edgecase%20Parchment.materials/Templates/Edgecase%20Parchment/acknowledgements.txt
