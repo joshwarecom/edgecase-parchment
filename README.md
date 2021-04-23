@@ -8,6 +8,7 @@ This is a simple Inform 7 project bundled with the following:
 - Drop "Edgecase Parchment.inform" and "Edgecase Parchment.materials" into your Inform 7 Projects directory
 - You may need to modify the paths at the top of the script to match your Inform 7 directories
 - If you don't want the download-transcript feature to be applied and some errors in the HTML files addressed, set secret_sauce to 0
+- Cross your fingers and run edgecase-parchment.py from the command shell.
 
 # To Publish A Different Z File:
 - replace library.z5 with your desired Z file
